@@ -1,0 +1,52 @@
+body{
+    padding: 0;
+    margin: 0;
+    background-color:none;
+}
+ header {
+    margin:0;
+    padding:0;
+    background-color: rgb(148, 5, 244);
+    border: 4px rgb(236, 7, 126) solid;
+    position:fixed;
+    width:100%;
+ }
+header h2{
+    color: rgb(17, 17, 17);
+}
+li{
+    display: inline;
+    padding: 0 20px 0 20px;
+    float:center;
+    background: rgb(205, 145, 237);
+    color: crimson;
+}
+li:hover{
+    color: rgb(226, 18, 18);
+}
+  footer{
+    color: rgb(92, 88, 84);
+    background-color: cadetblue;
+  }
+   section div{
+    display:inline;
+    height:50%;
+    width:100%;
+    mix-blend-mode:overlay;
+   }
+     section p{
+      color: rgb(14, 99, 9);
+        background-color:rgb(255, 255, 255);
+     }
+     div {
+mix-blend-mode: multiply;
+     }
+     img{
+      width: 100%;
+     }
+     h3{
+      color: brown;
+     }
+     h2{
+      color: chocolate;
+     }
